@@ -1,4 +1,4 @@
-# 📝 TODO LIST – Django Web Application
+#  TODO LIST – Django Web Application
 
 This project is a simple yet elegant **To-Do List** web application built using the **Django framework** and **HTML/CSS** for the frontend.
 
@@ -6,20 +6,20 @@ The goal is to allow users to create, view, and delete their tasks efficiently w
 
 ---
 
-## 📌 Features
+##  Features
 
 
-- ✅ Add tasks with title, description, and timestamp
+-  Add tasks with title, description, and timestamp
 
-- 🗑️ Remove/delete tasks individually
+-  Remove/delete tasks individually
  
-- 📆 Automatically formatted date and time display
+-  Automatically formatted date and time display
   
-- 🎨 Clean, responsive UI with soft card shadows and minimalistic style  
+-  Clean, responsive UI with soft card shadows and minimalistic style  
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 | Technology     | Usage                          | Contribution |
 |----------------|--------------------------------|--------------|
