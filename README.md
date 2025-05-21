@@ -10,11 +10,11 @@ The goal is to allow users to create, view, and delete their tasks efficiently w
 
 
 - ✅ Add tasks with title, description, and timestamp
-- 
+
 - 🗑️ Remove/delete tasks individually
-- 
+ 
 - 📆 Automatically formatted date and time display
-- 
+  
 - 🎨 Clean, responsive UI with soft card shadows and minimalistic style  
 
 ---
